@@ -1,3 +1,3 @@
 def call(body){
-  sh 'Standard build'
+  echo 'Standard build'
 }
