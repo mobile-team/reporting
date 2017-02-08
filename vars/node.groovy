@@ -2,7 +2,7 @@
 
 def call(Map parameters = [:], body) {
   println parameters
-  node {
+  xnode {
     body()
   }
 }
