@@ -1,3 +1,3 @@
 node() {
-    echo 'Project draftdsa??'
+    echo 'Project draftdsa'
 }
