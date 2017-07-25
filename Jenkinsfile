@@ -1,4 +1,3 @@
 node() {
-    echo 'Project drcxzxzafl;ktjk.'.
+    echo 'Pro'
 }
-a
